@@ -1,0 +1,23 @@
+Färgerna #d60000 (Jätteröd) #e56d6f (Typ rosa) #f69075 (typ beige) #f8b390 (mer beige(eller mindre)) #e8d9db (Nästan vit)
+
+Head med meta tags osv
+
+Dropdown meny överst med lite kategorier på produkter
+
+Stor fin rubrik
+
+tre fina bilder på rad 
+
+Stor fin knapp "KÖP HÄR"
+
+"FEATURED PRODUCTS" också klickbara bilder
+
+Newsletter
+
+Fler bilder (flexbox typ på dem)
+
+Lite om WilliamLarssonEnterprise
+
+Footer med länkar
+
+"made by alfred under stress"
